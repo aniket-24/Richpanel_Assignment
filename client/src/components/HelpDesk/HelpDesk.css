@@ -1,0 +1,38 @@
+.main {
+  margin: 4rem;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.group {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.search {
+  padding: 0 1rem 0 1rem;
+}
+
+.list {
+  margin: 2rem 0 4rem 0;
+  padding: 0 2rem 4rem 0;
+}
+
+.body {
+  display: flex;
+  justify-content: space-between;
+}
+
+.about {
+  display: flex;
+  flex-direction: column;
+  /* align-items: center; */
+}
+
+.right {
+  margin-top: 2rem;
+}
